@@ -1,2 +1,4 @@
 # reshell.org-static
-ReShell (https://reshell.org) conceptual desktop static site.  Source code available at: https://github.com/zenOSmosis/reshell
+This repository contains built artifact files for the ReShell (https://reshell.org) main portal.
+
+The source code is located in a different repository: https://github.com/zenOSmosis/reshell
