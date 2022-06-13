@@ -1,0 +1,2 @@
+(this.webpackJsonpreshell=this.webpackJsonpreshell||[]).push([[6],{567:function(e,t,s){"use strict";s.r(t);var n=s(28),c=s(22),r="https://speaker.app";t.default=function TempRedirect(){return Object(n.useEffect)((function(){window.location=r}),[]),Object(c.jsxs)("div",{children:["Content has temporarily moved to:"," ",Object(c.jsx)("a",{href:r,children:r}),"."]})}}}]);
+//# sourceMappingURL=6.1f4c914e.chunk.js.map
